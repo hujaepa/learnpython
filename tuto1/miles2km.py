@@ -1,8 +1,8 @@
 """
 This program is to convert miles into km.
-type casting is needed when receiving input as string in order to convert into number.
-Vice versa.
-Standard Data type in python:
+Type casting is needed when receiving input as string in order to convert into number.
+Vice versa for printing since print function accept string.
+Standard data type in python:
     -Numbers
     -String
     -List
