@@ -4,6 +4,6 @@ def genTempPassword(name):
     return tempPassword
 
 def genEmail(name):
-    splitName = name.split(' ',1)
+    splitName = name.split(' ',1) #will split the name when encounter the first space
     email = splitName[0].lower()+"@apu.edu.my"
     return email
